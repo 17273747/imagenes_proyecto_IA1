@@ -108,13 +108,13 @@ Para la evolución del proyecto hacia el modelado predicción, se planea la sigu
 
 ![Gráfico 4: Tiempo de entrega por nivel de trafico](https://github.com/17273747/imagenes_proyecto_IA1/blob/main/Tiempo_de_entrega_por_nivel_de_trafico.png?raw=true)
 
-![Gráfico 5: Time_taken vs velocidad promedio]()
+![Gráfico 5: Time_taken vs velocidad promedio](https://github.com/17273747/imagenes_proyecto_IA1/blob/main/Time_taken_vs_velocidad_promedio2.png?raw=true)
 
-![Gráfico 6: Distribución con cuartiles y tiempo de entrega por cuartil ][image6]
+![Gráfico 6: Distribución con cuartiles y tiempo de entrega por cuartil ]()
 
-![ Gráfico 7:  # 1. Histograma + KDE, # 2. Boxplot, # 3. Q-Q plot, # 4. Boxplot por tráfico][image7]
+![ Gráfico 7:  # 1. Histograma + KDE, # 2. Boxplot, # 3. Q-Q plot, # 4. Boxplot por tráfico]()
 
-![Gráfico 8:  Time_taken vs velocidad promedio 2][image8]
+![Gráfico 8:  Time_taken vs velocidad promedio 2]()
 
 
 
