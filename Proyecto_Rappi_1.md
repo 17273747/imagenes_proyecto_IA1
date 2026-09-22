@@ -104,7 +104,7 @@ Para la evolución del proyecto hacia el modelado predicción, se planea la sigu
 
 ![ Gráficos 2:Correlación de las 25 variables más relacionadas con la variable objetivo][https://github.com/17273747/imagenes_proyecto_IA1/blob/main/variables_con_mayor_relaci%C3%B3n_al_tiempo_de_entrega.png?raw=true]
 
-![Gráfico 3: Distribución + boxplot de time_taken][image3]
+![Gráfico 3: Distribución + boxplot de time_taken][https://github.com/17273747/imagenes_proyecto_IA1/blob/main/distribucion_boxplot_de_time_taken.png?raw=true]
 
 ![Gráfico 4: Tiempo de entrega por nivel de trafico][]
 
