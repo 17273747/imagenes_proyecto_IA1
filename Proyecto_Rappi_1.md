@@ -114,7 +114,6 @@ Para la evolución del proyecto hacia el modelado predicción, se planea la sigu
 
 ![ Gráfico 7:  # 1. Histograma + KDE, # 2. Boxplot, # 3. Q-Q plot, # 4. Boxplot por tráfico](https://github.com/17273747/imagenes_proyecto_IA1/blob/main/cuatro_graficas.png?raw=true)
 
-![Gráfico 8:  Time_taken vs velocidad promedio 2]()
 
 
 
