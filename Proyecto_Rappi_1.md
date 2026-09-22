@@ -102,21 +102,20 @@ Para la evolución del proyecto hacia el modelado predicción, se planea la sigu
 
 &nbsp;
 
-![][image2]
+![ Gráficos 2:Correlación de las 25 variables más relacionadas con la variable objetivo][https://github.com/17273747/imagenes_proyecto_IA1/blob/main/variables_con_mayor_relaci%C3%B3n_al_tiempo_de_entrega.png?raw=true]
 
-![][image3]
+![Gráfico 3: Distribución + boxplot de time_taken][image3]
 
-![][image4]
+![Gráfico 4: Tiempo de entrega por nivel de trafico][]
 
-![][image5]
+![Gráfico 5: Time_taken vs velocidad promedio][image5]
 
-![][image6]
+![Gráfico 6: Distribución con cuartiles y tiempo de entrega por cuartil ][image6]
 
-![][image7]
+![ Gráfico 7:  # 1. Histograma + KDE, # 2. Boxplot, # 3. Q-Q plot, # 4. Boxplot por tráfico][image7]
 
-![][image8]
+![Gráfico 8:  Time_taken vs velocidad promedio 2][image8]
 
-![][image9]
 
 &nbsp;
 
