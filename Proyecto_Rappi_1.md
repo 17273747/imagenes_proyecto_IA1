@@ -58,7 +58,7 @@ Para entrenar un modelo robusto y evitar el sobreajuste, se eliminaron deliberad
 
 ### 3.2 Detección y manejo de valores atípicos
 
-* Al analizar la variable objetivo `target_time`, se identificaron valores extremos mediante el método del Rango Intercuartil .  
+* Al analizar la variable objetivo `Time_taken_min`, se identificaron valores extremos mediante el método del Rango Intercuartil .  
 * Específicamente, se detectaron más de 2,000 observaciones en los límites superiores los cuales eran valores cercanos al tope de los 180 minutos.  
 * Estos outliers no deben eliminarse automáticamente a menos que sean errores de digitación, ya que representan entregas legítimamente complejas con recorridos largos bajo lluvia y tráfico denso. Ignorarlos dejaría al modelo ciego ante los peores escenarios posibles del servicio.
 
@@ -93,7 +93,7 @@ Para la evolución del proyecto hacia el modelado predicción, se planea la sigu
 
 ## 6*.* Gráficas
 
-![][image1]
+![ Gráficos 1: análisis visual de la variable objetivo y relaciones clave](https://raw.githubusercontent.com/TU_USUARIO/imágenes_proyecto_IA1/main/nombre_de_la_imagen.png)
 
 * **X (Tiempo en minutos):** Muestra el rango de duración de las entregas, desde un aproximado 10 minutos hasta un límite máximo de 180 minutos.&nbsp;  
 * **Y (Frecuencia):** Muestra la cantidad de pedidos que caen dentro de cada intervalo de tiempo.&nbsp;  
