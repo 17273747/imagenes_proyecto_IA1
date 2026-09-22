@@ -93,7 +93,7 @@ Para la evolución del proyecto hacia el modelado predicción, se planea la sigu
 
 ## 6*.* Gráficas
 
-![ Gráficos 1: análisis visual de la variable objetivo y relaciones clave](https://raw.githubusercontent.com/TU_USUARIO/imágenes_proyecto_IA1/main/nombre_de_la_imagen.png)
+![ Gráficos 1: análisis visual de la variable objetivo y relaciones clave](https://github.com/17273747/imagenes_proyecto_IA1/blob/main/distribucion_tiempo_de_entrega.png?raw=true)
 
 * **X (Tiempo en minutos):** Muestra el rango de duración de las entregas, desde un aproximado 10 minutos hasta un límite máximo de 180 minutos.&nbsp;  
 * **Y (Frecuencia):** Muestra la cantidad de pedidos que caen dentro de cada intervalo de tiempo.&nbsp;  
